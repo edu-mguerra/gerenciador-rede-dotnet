@@ -1,0 +1,6 @@
+@GerenciadorRede.API_HostAddress = http://localhost:5262
+
+GET {{GerenciadorRede.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
