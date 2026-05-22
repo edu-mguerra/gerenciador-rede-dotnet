@@ -45,7 +45,7 @@ Este projeto resolve desafios complexos de concorrência e manipulação de baix
 3. **Npcap** ou **WinPcap** instalado no sistema operacional (necessário para o SharpPcap acessar a placa de rede).
 
 ### 1. Configurar o Banco de Dados
-Por questões de segurança, o arquivo de configuração com senhas reais está no `.gitignore`.
+
 1. Na raiz do projeto (onde está o `Program.cs`), crie um arquivo chamado `appsettings.json`.
 2. Adicione a estrutura abaixo, colocando a sua senha do MySQL:
 
